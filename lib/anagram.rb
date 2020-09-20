@@ -7,7 +7,7 @@ class Anagram
   end 
   
    def match 
-     while 
+     @word.detect 
    end 
   
   

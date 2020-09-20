@@ -6,8 +6,7 @@ class Anagrams
     @word = word
   end 
   
-  def matc([])
-  end 
+   
   
   
 end
